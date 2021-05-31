@@ -1,0 +1,22 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.header {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #daa520;
+    color: black;
+}
+
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    padding-bottom: 10px;
+}
